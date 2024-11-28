@@ -54,3 +54,5 @@
 [28Nov2024 22:00:43.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made PitilloFdezz_ a server operator
 [28Nov2024 22:00:48.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PitilloFdezz_: Set own game mode to Spectator Mode]
 [28Nov2024 22:00:59.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PitilloFdezz_: Set own game mode to Survival Mode]
+[28Nov2024 22:02:28.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PitilloFdezz_ lost connection: Disconnected
+[28Nov2024 22:02:28.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PitilloFdezz_ left the game
